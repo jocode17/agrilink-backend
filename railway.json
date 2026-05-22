@@ -1,11 +1,10 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "builder": "NIXPACKS",
-    "buildCommand": "dotnet restore AgriLink.API/AgriLink.API.csproj && dotnet publish AgriLink.API/AgriLink.API.csproj -c Release -o out"
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile"
   },
   "deploy": {
-    "startCommand": "dotnet out/AgriLink.API.dll",
     "restartPolicyType": "ON_FAILURE"
   }
 }
