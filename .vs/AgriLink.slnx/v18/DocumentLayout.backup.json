@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\AgriLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\models\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\models\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\farmerproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\farmerproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\models\\entities\\dashboardentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\models\\entities\\dashboardentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\data\\agrilinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\data\\agrilinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\models\\entities\\messageentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\models\\entities\\messageentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\models\\entities\\cartitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\models\\entities\\cartitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\buyerorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\buyerorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\marketplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\marketplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|c:\\users\\admin\\documents\\agrilink\\agrilink.api\\models\\entities\\authentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8CC588-A77A-B3A9-CDA0-4D40A02C2274}|AgriLink.API\\AgriLink.API.csproj|solutionrelative:agrilink.api\\models\\entities\\authentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:21:36.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\MessageEntities.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Models\\Entities\\MessageEntities.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\MessageEntities.cs",
+              "RelativeToolTip": "AgriLink.API\\Models\\Entities\\MessageEntities.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:38:45.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\CartItemEntity.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Models\\Entities\\CartItemEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\CartItemEntity.cs",
+              "RelativeToolTip": "AgriLink.API\\Models\\Entities\\CartItemEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:15:34.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\DTOs\\AuthDTOs.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Models\\DTOs\\AuthDTOs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\DTOs\\AuthDTOs.cs",
+              "RelativeToolTip": "AgriLink.API\\Models\\DTOs\\AuthDTOs.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:21:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\MessageService.cs",
+              "RelativeToolTip": "AgriLink.API\\Services\\MessageService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:39:25.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:16:17.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\OrderService.cs",
+              "RelativeToolTip": "AgriLink.API\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:16:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "AgriLink.API\\Services\\ProductService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA0wEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:21:18.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:39:46.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FarmerProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\FarmerProductsController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\FarmerProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\FarmerProductsController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\FarmerProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:24:55.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Program.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Program.cs",
+              "RelativeToolTip": "AgriLink.API\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:26:10.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgriLinkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Data\\AgriLinkDbContext.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Data\\AgriLinkDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Data\\AgriLinkDbContext.cs",
+              "RelativeToolTip": "AgriLink.API\\Data\\AgriLinkDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:22:14.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\DashboardEntities.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Models\\Entities\\DashboardEntities.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\DashboardEntities.cs",
+              "RelativeToolTip": "AgriLink.API\\Models\\Entities\\DashboardEntities.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAxwJoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:44:26.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:15:07.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:23:13.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MarketplaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\MarketplaceController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\MarketplaceController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\MarketplaceController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\MarketplaceController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:14:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AgriLink.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\appsettings.json",
+              "RelativeToolTip": "AgriLink.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T20:24:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuyerOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\BuyerOrdersController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\BuyerOrdersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\BuyerOrdersController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\BuyerOrdersController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:40:13.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAwwM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:40:31.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AgriLink.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:45:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "AgriLink.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAwwOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:22:54.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Services\\DashboardService.cs",
+              "RelativeToolTip": "AgriLink.API\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA8wLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:44:58.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AgriLink.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\appsettings.Development.json",
+              "RelativeToolTip": "AgriLink.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T20:27:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "AgriLink.API\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:22:30.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\AuthEntities.cs",
+              "RelativeDocumentMoniker": "AgriLink.API\\Models\\Entities\\AuthEntities.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\AgriLink\\AgriLink.API\\Models\\Entities\\AuthEntities.cs",
+              "RelativeToolTip": "AgriLink.API\\Models\\Entities\\AuthEntities.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:20:53.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
